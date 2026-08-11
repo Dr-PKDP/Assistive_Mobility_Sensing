@@ -1,0 +1,50 @@
+{
+  "Chun[10]": {
+    "accuracy_pct": 90.0,
+    "note": "90% (daylight)"
+  },
+  "Singh&Kapoor[11]": {
+    "accuracy_pct": 75.0,
+    "note": "mean of 65% (10cm) and 85% (20cm)"
+  },
+  "Ray[13]": {
+    "accuracy_pct": 98.0,
+    "note": "mean of 100% (pothole/obstacle) and 96% (bump)"
+  },
+  "Sharma[18]": {
+    "accuracy_pct": 95.0,
+    "note": "95%"
+  },
+  "Thapa[12]": {
+    "accuracy_pct": 92.75,
+    "note": "mean of 91.8% (pothole) and 93.7% (bump)"
+  },
+  "Silva&Wimalaratne[50]": {
+    "accuracy_pct": 82.5,
+    "note": "mean of 98% (frontal) and 67% (drop-off)"
+  },
+  "Islam[33]": {
+    "accuracy_pct": 94.86,
+    "note": "mean of 92.67% (pothole) and 97.05% (obstacle)"
+  },
+  "Yadav[34]": {
+    "accuracy_pct": 94.25,
+    "note": "mean of 94.5% (pothole) and 94% (overall)"
+  },
+  "Rao[35]": {
+    "accuracy_pct": 90.0,
+    "note": "reported as >90% (nighttime pothole)"
+  },
+  "Achirei[42]": {
+    "accuracy_pct": 99.15,
+    "note": "mean of 98.7% (detection) and 99.6% (pixel-level)"
+  },
+  "Paramarthalingam[8]": {
+    "accuracy_pct": 82.5,
+    "note": "mAP@0.5"
+  },
+  "Mungdee[58]": {
+    "accuracy_pct": 92.0,
+    "note": "0.92 mAP@50 expressed as a percentage"
+  }
+}
