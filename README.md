@@ -83,7 +83,7 @@ Two errors were found and fixed while preparing this analysis, both
 documented in the paper's Section 7 for transparency:
 
 1. **A scoring error caught by the intra-rater check.** One study
-   (`Chaudhary&Verma[57]`) had been scored ASS = 2 against an earlier,
+   (`Chaudhary&Verma[62]`) had been scored ASS = 2 against an earlier,
    incorrect description of its method as a lightweight single-stage
    classifier. The study actually uses an EfficientNet backbone with
    spatial-channel attention — ASS = 4. `scored_studies.json` reflects the
@@ -117,7 +117,7 @@ intermediate incorrect ones.
   this reduced sample size.
 - Modality was assigned by locating each study's citation number within
   the corresponding subsection of the paper (Section 4.2–4.5). Two studies
-  cited as a combined pair (`[23, 24]`) required a manual override rather
+  cited as a combined pair (`[7, 49]`) required a manual override rather
   than automatic detection, since automatic substring matching only finds
   standalone bracket citations — see `data/scored_studies.json` generation
   logic in the scripts for details.
